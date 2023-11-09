@@ -1,8 +1,0 @@
-apiVersion: pkg.crossplane.io/v1alpha1
-kind: ControllerConfig
-metadata:
-  name: irsa-controllerconfig
-  annotations:    
-    eks.amazonaws.com/role-arn: arn:aws:iam::109436461681:role/gitops-policy
-spec: {}    
-
