@@ -20,5 +20,5 @@ spec:
           }
         ]
       }
-    providerConfigRef:
-      name: irsa-providerconfig
+  providerConfigRef:
+    name: irsa-providerconfig
